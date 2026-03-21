@@ -1,0 +1,7 @@
+aid: guidewell-mutual
+url: https://raw.githubusercontent.com/api-evangelist/guidewell-mutual/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.guidewell-mutual.com
